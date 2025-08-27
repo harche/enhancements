@@ -3,6 +3,7 @@ kep-number: 3386
 authors:
   - "@haircommander"
   - "@harche"
+  - "@HirazawaUi"
 owning-sig: sig-node
 status: implementable
 creation-date: 2022-06-13
